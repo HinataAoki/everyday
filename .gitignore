@@ -1,3 +1,6 @@
-Image into Point Cloud/*.png
-Image into Point Cloud/*.jpg
-Image into Point Cloud/*.mov
+*/*.png
+*/*.jpg
+*/*.mov
+*/*.mp4
+*/*/*.jpg
+*/*/*.png
